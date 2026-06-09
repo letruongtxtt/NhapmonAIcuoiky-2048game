@@ -1,4 +1,4 @@
-# 2048 AI Solver - Báo cáo & Hướng dẫn Sử dụng Đồ án
+# 2048 AI Solver - Báo cáo & Hướng dẫn Sử dụng
 
 Dự án này là một chương trình giải quyết trò chơi **2048** tự động sử dụng các thuật toán Trí tuệ nhân tạo (AI) nâng cao bao gồm **Expectimax**, **Minimax**, và **Greedy Heuristic**. Giao diện ứng dụng được phát triển trực quan dựa trên thư viện đồ họa **Tkinter** của Python, đi kèm bảng điều khiển thời gian thực (Dashboard) hỗ trợ thay đổi thuật toán động và tự động chơi/lập lại.
 
